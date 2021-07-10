@@ -1,0 +1,14 @@
+ja:
+  activerecord:
+    models:
+      item: アイテム
+    attributes:
+      item:
+        title: タイトル
+
+  activemodel:
+    models:
+      item_model: アイテム
+    attributes:
+      item_model:
+        title: タイトル
