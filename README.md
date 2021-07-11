@@ -5,6 +5,7 @@ A memoized cache for ActiveRecord translations.
 ## Dependencies
 
 * ruby 2.5+
+* activerecord 6.0+
 * activesupport 6.0+
 
 ## Installation
